@@ -72,4 +72,4 @@ python main.py
 ## Overview
 This application is a Python-based GUI tool for tracking daily meals and nutritional intake. It uses SQLite database for data storage and supports user interfaces in Japanese and English.
 
-[English version of the features, requirements, installation, usage, etc.]
+[English version of the features, requirements, installation, usage, etc.. update coming soon]
