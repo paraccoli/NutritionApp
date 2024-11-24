@@ -61,8 +61,8 @@ python main.py
 - データの視覚化の強化
 
 ## 作成者 Developer
-- 作成者: xM1guel
-- GitHub: https://github.com/xM1guel
+- 作成者: パラッコリー(ID：Paraccoli)
+- GitHub: https://github.com/paraccoli
 - Zenn: https://zenn.dev/miguel
 
 ---
